@@ -6,8 +6,6 @@ import TableAxios from "./Venkateswarlu/tableRender_axois"
 
 
 function AppRouter() {
-
-
     return (
         <BrowserRouter>
             <Routes>
