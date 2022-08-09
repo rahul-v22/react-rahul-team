@@ -9,7 +9,7 @@ const Usersdata = () => {
     data: []
   })
   useEffect(() => {
-    axios.get('https://reqres.in/api/users?page=2')
+    axios.get('https://reqres.in/api/users')
       .then(function (response) {
         console.log(response.data);
         setState(response.data)
