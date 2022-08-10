@@ -1,11 +1,11 @@
 import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
-import Usersdata from './components/Usersdata/Usersdata';
+import Usersdata from './Components/Usersdata/Usersdata';
 
 import TableAxios from "./Venkateswarlu/tableRender_axois"
 
-import Userdata from './components/userdata';
+import Userdata from './Components/userdata';
 
 
 
