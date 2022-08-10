@@ -83,7 +83,7 @@ const Usersdata = () => {
   return (
 
     <div className='container'>
-
+      <h3 className='text-center'>PAGINATION</h3>
       <div className='d-flex flex-row justify-content-end m-3'>
 
         <select onChange={(e) => {
